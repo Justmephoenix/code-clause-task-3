@@ -1,0 +1,43 @@
+{
+
+"intents":[
+    {
+        "tag":"greeting",
+        "patterns":[
+            "Hi","Hey","What's up ?","Hey How are You","Hello","Good day!"
+        ],
+        "responses":[
+            "Hey sir !!","Hello ,What can do for you ?"
+        ]
+    },
+    {
+        "tag":"Phoenix",
+        "patterns":[
+            "What is phoenix ",
+            "Tell me about phoenix",
+            "Who is Phoenix"
+        ],
+        "responses":[
+            "Phoenix is a mythical bird who never died if he died he will born again from the eternity fire ."
+        ]
+    },
+    {
+        "tag":"name",
+        "patterns":[
+            "what is your name","What should i call you ?"
+        ],
+        "responses":[
+            "My name is OptimusPrime"
+        ]
+    },
+    {
+        "tag":"file",
+        "patterns":[
+            "Create a file ","Create a new file"
+        ],
+        "responses":[]
+    }
+
+]
+
+}
